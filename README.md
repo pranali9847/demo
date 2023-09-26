@@ -1,3 +1,3 @@
 # demo
 myfirstdemo
-auther - pranali
+auther-pranali
